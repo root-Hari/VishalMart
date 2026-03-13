@@ -38,6 +38,7 @@ public class VishalMart
 		this.city = city;
 		this.state = state;
 	}
+	//this code is formated
 	
 	
 
