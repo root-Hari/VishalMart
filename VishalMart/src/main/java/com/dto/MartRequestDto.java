@@ -14,5 +14,6 @@ public class MartRequestDto
 	private String city;
 	
 	private String state;
+	//this good formated 
 
 }
