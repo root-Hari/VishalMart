@@ -15,4 +15,5 @@ public class MartRequestDto
 	
 	private String state;
 //somthing
+	//clear the line
 }
